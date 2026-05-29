@@ -85,7 +85,7 @@ TRANSLATIONS = {
         "clear_confirm": "Start a new analysis?",
     },
     "bn": {
-        "app_title": "সংক্ষেপ.io",
+        "app_title": "Abstrc.ai",
         "app_subtitle": "AI-চালিত ভিডিও ও অডিও সংক্ষেপণ",
         "sidebar_title": "⚙️ সেটিংস",
         "language_label": "ইন্টারফেস ভাষা",
@@ -560,7 +560,7 @@ def build_export_text(result: dict) -> str:
 
     lines = [
         "═" * 60,
-        f"  সংক্ষেপ.io — Analysis Report",
+        f"  Abstrc.ai — Analysis Report",
         f"  Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
         "═" * 60,
         "",
