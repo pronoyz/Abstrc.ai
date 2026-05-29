@@ -80,7 +80,7 @@ TRANSLATIONS = {
             "and analyze video/audio content. Ask questions about "
             "your media using the built-in RAG chat."
         ),
-        "footer": "Built with ❤️ by Abstrc.ai",
+        "footer": "Built by Team Abstrc — Abstrc.ai",
         "new_session": "🔄 New Session",
         "clear_confirm": "Start a new analysis?",
     },
